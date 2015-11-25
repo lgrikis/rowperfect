@@ -105,7 +105,7 @@ a:focus {
 }
 
 .intro {
-  background: url(../images/RPside.jpg) no-repeat bottom center fixed;
+  background: url(../images/RPside.png) no-repeat center center fixed;
   background-size: cover !important;
   display: table;
   width: 100%;
