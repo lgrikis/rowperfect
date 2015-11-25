@@ -46,10 +46,10 @@ $(document).ready(function() {
 
     var error = false;
     var input_fields = [];
-    input_fields.push($('#entry_1694681709'));
-    input_fields.push($('#entry_1088814763'));
-    input_fields.push($('#entry_1407288792'));
-    input_fields.push($('#entry_726416921'));
+    input_fields.push($('#entry_2100312067'));
+    input_fields.push($('#entry_1137281981'));
+    input_fields.push($('#entry_2033187951'));
+    input_fields.push($('#entry_626805886'));
 
     input_fields.forEach(function(field){
       if ( field.val() ){
@@ -70,8 +70,4 @@ $(document).ready(function() {
     };
 
   });
-
-
-
-
 });
