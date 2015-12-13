@@ -247,7 +247,9 @@ a:focus {
 }
 
 #gallery {
-  background-color: #333333; }
+  color: #d3d3d3;
+  background-color: #333333;
+}
 
 #about {
 	background-color: #d3d3d3;}
@@ -564,7 +566,7 @@ img::-moz-selection {
 
 hr.star-light,
 hr.star-primary {
-  margin: 25px auto 30px;
+  margin: -25px auto 30px;
   padding: 0;
   max-width: 250px;
   border: 0;
@@ -635,7 +637,7 @@ hr.star-light-contact:after {
   padding-bottom: 30px;
 }
 #footer .btn {
-  padding: 3px 10px;
+  padding: 6px;
 }
 .cover {
   position: fixed;
