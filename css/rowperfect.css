@@ -14,3 +14,12 @@
 #contact-form input {
   padding-bottom: 0px;
 }
+
+.contact-name {
+  width: 200px;
+  text-align: right;
+}
+
+.contact-info a {
+  color: #ddd;
+}
